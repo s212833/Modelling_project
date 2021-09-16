@@ -8,3 +8,4 @@ import numpy as np
 
 print(hello)
 print(bye)
+print(hi)
